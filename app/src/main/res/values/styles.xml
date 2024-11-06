@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="btnnums">
+        <item name="android:layout_weight">1</item>
+        <item name="android:height">38pt</item>
+        <item name="android:layout_width">30pt</item>
+        <item name="android:background">#584786</item>
+        <item name="android:padding">3pt</item>
+        <item name="android:textSize">20pt</item>
+        <item name="android:layout_margin">1pt</item>
+    </style>
+
+    <style name="btnopration" parent="btnnums">
+        <item name="android:background">#f54200</item>
+    </style>
+
+    <style name="btnzero" parent="btnnums">
+        <item name="android:layout_weight">2</item>
+        <item name="android:layout_width">73pt</item>
+
+    </style>
+</resources>
