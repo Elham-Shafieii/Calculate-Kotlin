@@ -7,8 +7,8 @@
         <item name="android:layout_width">30pt</item>
         <item name="android:background">#618DB1</item>
         <item name="android:padding">3pt</item>
-        <item name="android:textSize">20pt</item>
-        <item name="android:layout_margin">1pt</item>
+        <item name="android:textSize">30pt</item>
+        <item name="android:layout_margin">2pt</item>
     </style>
 
     <style name="btnopration" parent="btnnums">
